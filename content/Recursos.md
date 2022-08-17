@@ -4,7 +4,7 @@ menu = "main"
 weight = 2
 +++
 
-# Artigos
+## Artigos
 
 1. _Da (in)validade do AO'90 no Ordenamento Jurídico Português_ — publicado em 2019.
 [LER](https://artciencia.com/article/view/25480/18686)
@@ -18,6 +18,6 @@ weight = 2
 4. Já ouviram falar em “riâção”? Vão ouvir, muitas vezes — Público.
 [LER](https://www.publico.pt/2022/05/05/culturaipsilon/opiniao/ja-ouviram-falar-riacao-vao-ouvir-vezes-2004842)
 
-# Livros
+## Livros
 
 1. _O português à descoberta do brasileiro_ — Fernando Venâncio (Guerra e Paz). >> [Wook](https://www.wook.pt/livro/o-portugues-a-descoberta-do-brasileiro-fernando-venancio/26502767)
