@@ -1,9 +1,9 @@
 # Base URL used when generating links to your pages
 # Set to the URL for your site
-baseURL = "https://example.com"
+baseURL = "https://lingua-solta.netlify.app/"
 
 # The name of this wonderful theme ;-).
-theme = 'Bearblog'
+theme = 'bearblog'
 
 # Basic metadata configuration for your blog.
 title = "Língua Solta"
