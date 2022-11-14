@@ -3,12 +3,12 @@
 baseURL = "https://lingua-solta.netlify.app/"
 
 # The name of this wonderful theme ;-).
-theme = 'bearblog'
+theme = 'hugo-bearblog'
 
 # Basic metadata configuration for your blog.
 title = "Língua Solta"
 author = "Cláudia Monteiro"
-copyright = "Copyright © 2022, Cláudia Monteiro."
+copyright = "Copyright © 2020, Cláudia Monteiro."
 languageCode = "pt-PT"
 
 # Generate a nice robots.txt for SEO
@@ -23,7 +23,7 @@ ignoreErrors = ["error-disable-taxonomy"]
 
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.
-  description = "Hugo + Bear = :heart:"
+  description = "Notas sobre ortografia"
 
   # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
   # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
