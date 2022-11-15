@@ -3,7 +3,7 @@
 baseURL = "https://lingua-solta.netlify.app/"
 
 # The name of this wonderful theme ;-).
-theme = 'bearblog'
+theme = 'hugo-bearblog'
 
 # Basic metadata configuration for your blog.
 title = "Língua Solta"
