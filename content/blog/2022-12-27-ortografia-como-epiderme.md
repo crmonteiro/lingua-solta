@@ -1,0 +1,34 @@
++++
+title = "A ortografia como epiderme da língua"
+date = "2022-12-27"
+description = "Todas as perguntas sobre a ortografia são boas perguntas."
+tags = [
+    "história dos acordos",
+]
++++
+
+Em 1987, os linguistas Ivo Castro, Inês Duarte e Isabel Leiria[^fn1] fixaram uma frase que alguém disse quando se começou a discutir o acordo ortográfico de 1986. (O de 86 não chegou a existir, mas inspirou o de 1990, que temos hoje em vigor)[^fn2]. Isto é o que eles dizem:
+
+>[C]onvém recordar que a afirmação de que "a ortografia é a epiderme da língua", introduzida no início do debate que o Acordo desencadeou, tem sido mal interpretada. 
+
+>(...)
+
+>Curiosamente, para muitas das pessoas que a têm invocado, ela significa que a ortografia é _totalmente_ convencional e que nenhuns danos, ligeiros ou profundos, podem advir para a língua de remodelações ortográficas insensatas. Na realidade, para essas pessoas a ortografia é uma maquilhagem da língua.
+
+Hoje não faltam livros, artigos e palestras com o papel surpreendente de tudo: o papel surpreendente [do acaso](https://www.amazon.com/What-Luck-Surprising-Chance-Everyday/dp/1468313754); o papel surpreendente [da nutrição na saúde mental](https://www.youtube.com/watch?v=3dqXHHCc5lA); o papel surpreendente --- não vão acreditar --- da [surpresa](https://www.tandfonline.com/doi/abs/10.1207/s15326934crj1802_2). Este tema também o merecia: o papel surpreendente da ortografia no resto da língua.
+
+Esta é a forma como Ivo Castro e colegas interpretam a frase "a ortografia é a epiderme da língua":
+
+>De facto, quando (utilizando a gíria médica) fazemos uma lesão na nossa epiderme, sabemos muito bem que ela incomoda, faz doer e pode ter consequências nos tecidos mais profundos que vai até aos danos irreparáveis (como acontece, por exemplo, com os melanomas e os metano-sarcomas). E mesmo quando a lesão é ligeira, ela desfeia ou desfigura... A nosso ver, é precisamente neste sentido que a afirmação acima deve ser entendida.
+
+Por outras palavras, a escrita tem consequências na fala. A relação entre escrita e oralidade é recíproca; tem dois sentidos. Os autores dão vários exemplos, o mais simples de todos o do _palmier_, o bolo francês que se vende na padaria ou se compra aos pacotes no supermercado. Lemos "palmiére", não porque tenha sido esse o som que nos chegou dos franceses, mas porque lhe vemos um "r" no fim quando a lemos. O que lemos influenciou o que dizemos.
+
+Uma língua parada é uma língua morta, como diz Marco Neves.[^fn3] Só por isso, o assunto da ortografia requer atenção regular. Neste momento em particular, onze anos depois da entrada em vigor do acordo de 90, o acordo de 45 continua a ser usado: pelo Público e editoras de renome, pelo Governo Sombra e os seus quatro comentadores e moderador; dois livros importantes publicados neste e no ano passado, de domínios diferentes, usam o acordo de 45: o _Super-Camões --- Biografia de Fernando Pessoa_, de João Pedro George pela Dom Quixote; e o _Sexta-Feira é o Novo Sábado_, do economista Pedro Gomes, pela Relógio D'Água, sobre o mais discutido dos assuntos, a semana de quatro dias.
+
+Vale a pena, pelo menos, perceber o que se passa. A resistência, mesmo que venha a provar-se infundada, tem pelo menos um motivo: ainda estamos para ter uma conversa pública sobre o acordo ortográfico.
+
+[^fn1]: No [_A Demanda da Ortografia Portuguesa_](https://www.wook.pt/livro/a-demanda-da-ortografia-portuguesa-ines-duarte/171767), pela Edições João Sá da Costa.
+
+[^fn2]: Nesta altura, tratava-se do acordo de 1986, que foi rejeitado, mas parte dele seria aproveitado para formar o acordo de 1990.
+
+[^fn3]: No [_História do Português desde o Big Bang_](https://www.wook.pt/livro/historia-do-portugues-desde-o-big-bang-marco-neves/24713307), pela Guerra & Paz.
