@@ -8,7 +8,7 @@ tags = [
 ]
 +++
 
-Em 1987, os linguistas Ivo Castro, Inês Duarte e Isabel Leiria[^fn1] fixaram uma frase que alguém disse quando se começou a discutir o acordo ortográfico de 1986. (Ele não avançou, mas inspirou o de 1990, que temos hoje em vigor.) A frase era: "a ortografia é a epiderme da língua". Sobre ela, escreveram:
+Em 1987, os linguistas Ivo Castro, Inês Duarte e Isabel Leiria[^fn1] fixaram uma frase que alguém disse quando começou a discutir-se o acordo ortográfico de 1986. (Ele não avançou, mas inspirou o de 1990, que temos hoje em vigor.) A frase era: "a ortografia é a epiderme da língua". Sobre ela, escreveram:
 
 >Curiosamente, para muitas das pessoas que a têm invocado, [esta frase] significa que a ortografia é _totalmente_ convencional e que nenhuns danos, ligeiros ou profundos, podem advir para a língua de remodelações ortográficas insensatas. Na realidade, para essas pessoas a ortografia é uma maquilhagem da língua.
 
@@ -16,11 +16,11 @@ Hoje não faltam livros, artigos e palestras sobre o papel surpreendente de tudo
 
 Esta é a forma como Ivo Castro e colegas interpretam a ortografia como "a epiderme da língua":
 
->De facto, quando (utilizando a gíria médica) fazemos uma lesão na nossa epiderme, sabemos muito bem que ela incomoda, faz doer e pode ter consequências nos tecidos mais profundos que vão até aos danos irreparáveis (…). E mesmo quando a lesão é ligeira, ela desfeia ou desfigura... A nosso ver, é precisamente neste sentido que a afirmação acima deve ser entendida.
+>De facto, quando (utilizando a gíria médica) fazemos uma lesão na nossa epiderme, sabemos muito bem que ela incomoda, faz doer e pode ter consequências nos tecidos mais profundos que vão até aos danos irreparáveis (…). E mesmo quando a lesão é ligeira, ela desfeia ou desfigura… A nosso ver, é precisamente neste sentido que a afirmação acima deve ser entendida.
 
 Por outras palavras, a escrita afecta a fala. Os autores dão vários exemplos, como o da palavra _palmier_. Dizemos "palmiére", não porque tenha sido esse o som que nos chegou dos franceses, mas porque lhe vemos um "r" no fim quando a lemos. O que lemos influenciou o que dizemos.
 
-Como uma língua nunca pára, o assunto da ortografia requer atenção regular. No entanto, apesar de terem passado vários anos desde a entrada em vigor do acordo de 1990, ele continua controverso. O acordo de 45 continua a ser usado por entidades como o Público, o Governo Sombra e os seus quatro comentadores e moderador e editoras de renome: dois livros importantes publicados recentemente, de domínios diferentes, usam o acordo de 45: o _Super-Camões – Biografia de Fernando Pessoa_, de João Pedro George, pela Dom Quixote; e o _Sexta-Feira é o Novo Sábado_, do economista Pedro Gomes, pela Relógio D'Água, sobre o mais discutido dos assuntos, a semana de quatro dias.
+Como uma língua nunca pára, o assunto da ortografia requer atenção regular. No entanto, apesar de terem passado vários anos desde a entrada em vigor do acordo de 1990, ele continua controverso. O acordo de 45 continua a ser usado por entidades como o Público, o Governo Sombra, os seus três comentadores noutros contextos e editoras de renome; dois livros importantes publicados recentemente, de domínios diferentes, usam o acordo de 45: o _Super-Camões – Biografia de Fernando Pessoa_, de João Pedro George, pela Dom Quixote; e o _Sexta-Feira é o Novo Sábado_, do economista Pedro Gomes, pela Relógio D'Água, sobre o mais discutido dos assuntos, a semana de quatro dias.
 
 Vale a pena procurarmos perceber o que se passa. Mesmo que venha a provar-se infundada, esta resistência justifica-se para já com um motivo: ainda estamos para ter uma conversa pública e robusta sobre o acordo ortográfico.
 
