@@ -2,7 +2,7 @@
 title = "A ortografia como epiderme da língua"
 date = "2023-01-07"
 description = "Seria bom uma conversa pública e robusta sobre o acordo ortográfico."
-draft = true
+draft = false
 tags = [
     "história dos acordos ortográficos",
 ]
