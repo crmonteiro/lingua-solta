@@ -12,7 +12,7 @@ Em 1987, os linguistas Ivo Castro, Inês Duarte e Isabel Leiria[^fn1] fixaram um
 
 >Curiosamente, para muitas das pessoas que a têm invocado, [esta frase] significa que a ortografia é _totalmente_ convencional e que nenhuns danos, ligeiros ou profundos, podem advir para a língua de remodelações ortográficas insensatas. Na realidade, para essas pessoas a ortografia é uma maquilhagem da língua.
 
-Hoje não faltam livros, artigos e palestras sobre o papel surpreendente de tudo: o papel surpreendente [do acaso](https://www.amazon.com/What-Luck-Surprising-Chance-Everyday/dp/1468313754); o papel surpreendente [da nutrição na saúde mental](https://www.youtube.com/watch?v=3dqXHHCc5lA); o papel surpreendente da [surpresa](https://www.tandfonline.com/doi/abs/10.1207/s15326934crj1802_2). Este tema também o merecia: o papel surpreendente da ortografia na língua.
+Hoje não faltam livros, artigos e palestras sobre o papel surpreendente de tudo: o papel surpreendente [do acaso](https://www.amazon.com/What-Luck-Surprising-Chance-Everyday/dp/1468313754); o papel surpreendente [da nutrição na saúde mental](https://www.youtube.com/watch?v=3dqXHHCc5lA); até o papel surpreendente da [surpresa](https://www.tandfonline.com/doi/abs/10.1207/s15326934crj1802_2). Este tema também o merecia: o papel surpreendente da ortografia na língua.
 
 Esta é a forma como Ivo Castro e colegas interpretam a ortografia como "a epiderme da língua":
 
