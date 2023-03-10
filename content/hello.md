@@ -8,4 +8,4 @@ slug: "/descrição"
 
 ## Olá.
 
-O meu nome é Cláudia Monteiro e sou tradutora. Em 2011, recebi, dei formação e passei a usar o acordo ortográfico de 1990. Em 2021, ao ler sobre a história da língua, pesquisei o contexto político do acordo de 1990. Em 2022, regressei ao acordo de 45. O Língua Solta é a minha contribuição para uma conversa pública sobre "a pele da língua".
+Olá. O meu nome é Cláudia Ramos Monteiro e este é o registo da minha jornada para perceber a ortografia e os acordos ortográficos. É difícil destrinçar o político do linguístico, do jurídico, do psicológico. Esta é a minha tentativa de fazer sentido da história e estado da ortografia, a minha contribuição para uma conversa pública sobre «a pele da língua».
