@@ -24,4 +24,4 @@ Há pouco mais de cem anos, embarcámos na travessia das reformas ortográficas.
 
 [^2]: Não fomos os únicos a fazê-lo: o inglês teve o mesmo movimento. É assim que, ainda hoje, o que antes era «fleme» se escreve «phlegm». Conta-nos isto a linguista Arika Okrent, num episódio de 99% Invisible, «[Corpse, Corps, Horse and Worse](https://99percentinvisible.org/episode/corpse-corps-horse-and-worse/transcript/)». Parafraseando a rainha D. Isabel, «são modas, senhor».
 
-[^3]: De forma semelhante ao inglês, o francês não ajusta tanto a ortografia à fonética (a forma como pronunciamos as palavras em dada altura). Consequentemente, tem hoje muitas vogais e consoantes mudas (e~st~, respire~nt~, Pari~s~).
+[^3]: De forma semelhante ao inglês, o francês não ajusta tanto a ortografia à fonética (a forma como pronunciamos as palavras em dada altura). Consequentemente, tem hoje muitas vogais e consoantes mudas (e~~st~~, respire~~nt~~, Pari~~s~~).
