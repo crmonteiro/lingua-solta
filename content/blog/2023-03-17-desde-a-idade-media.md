@@ -1,6 +1,6 @@
 +++
 title = "Desde a Idade Média"
-date = "2023-03-11»
+date = "2023-03-11"
 description = "Um dos capítulos mais atormentados da história linguística portuguesa, diz Giuseppe Tavani."
 draft = false
 tags = [
