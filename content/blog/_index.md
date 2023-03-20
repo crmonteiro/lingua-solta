@@ -1,4 +1,4 @@
-+++
+---
 title: "Textos"
 slug: "/textos"
-+++
+---
