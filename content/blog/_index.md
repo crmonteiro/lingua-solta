@@ -1,3 +1,3 @@
 +++
-title = "Textos"
+title = "Blog"
 +++
